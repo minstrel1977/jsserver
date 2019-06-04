@@ -1,0 +1,33 @@
+{
+  "name": "jsserver",
+  "version": "1.0.0",
+  "description": "nodejs练习",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "multiparty": "^4.2.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/minstrel1977/jsserver.git"
+  },
+  "keywords": [
+    "nodejs",
+    "httpserver",
+    "demo"
+  ],
+  "author": "minstrel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minstrel1977/jsserver/issues"
+  },
+  "homepage": "https://github.com/minstrel1977/jsserver#readme"
+}
